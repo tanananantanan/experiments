@@ -1,0 +1,21 @@
+.important {
+    color: blue;
+ }
+
+.second {
+    color: green;
+    background-color: darkcyan;
+ }
+
+#one {
+    color: orangered !important;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+h1 {
+    color: brown;
+    background-color: gray;
+}
