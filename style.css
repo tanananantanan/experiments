@@ -1,3 +1,7 @@
+body {
+    background-color: lightgreen;
+}
+
 .important {
     color: blue;
  }
@@ -20,6 +24,3 @@ h1 {
     background-color: gray;
 }
 
-body {
-    background-color: lightgreen;
-}
